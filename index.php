@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<title>Notepad</title>
+		<title>Outside</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<link href="./statics/css/bootstrap.min.css" rel="stylesheet">
 		<link href="./statics/css/bootstrap-responsive.css" rel="stylesheet">
@@ -17,12 +17,12 @@
 		<!-- meta tags //-->
 		
 		<meta property="og:type" content="website">
-		<meta property="og:title" content="Notepad - Notes taking app for Android">
-		<meta property="og:site_name" content="Notepad">
-		<meta property="og:description" content="Notepad is a simple, beautiful yet powerful notes taking app for android.">
-		<meta property="og:url" content="http://lab.neerajkumar.name/notepad/">
+		<meta property="og:title" content="Outside - Readable Weather Information">
+		<meta property="og:site_name" content="Outside">
+		<meta property="og:description" content="A beautiful app that displays weather information in a readable format.">
+		<meta property="og:url" content="http://lab.neerajkumar.name/outside/">
 		<meta property="og:determiner" content="the">
-		<meta property="og:image" content="https://lh5.ggpht.com/iu8u1RLprmQOIsRrLgnBUqhOJvxArb5shtdjatnVTYzYT36nyIL0kfVGBG333PRdJE0=w300-rw">
+		<meta property="og:image" content="https://lh4.ggpht.com/ApZLAgv5Jr7m5P4WjlEdKwtEubbKL-4lUbXA7DghghMDYdJp73v4AXKiNM6dlZlkwF0=w300-rw">
 		<meta property="fb:admins" content="609558078" >
 		
 	</head>
@@ -37,18 +37,18 @@
 		}(document, 'script', 'facebook-jssdk'));</script>
 		
 		<div class="main">
-			<div class="container-fluid">
+			<div class="container-fluid prepend-top">
 				<div class="row-fluid">
 					<div class="span12 centerText">
-						<p><img style="height: 100px" src="https://lh5.ggpht.com/iu8u1RLprmQOIsRrLgnBUqhOJvxArb5shtdjatnVTYzYT36nyIL0kfVGBG333PRdJE0=w300-rw"/ ></p>
-						<h1>NOTEPAD</h1>
-						<p class="muted">Notes taking app for Android!</p>
+						<p><img style="height: 100px" src="https://lh4.ggpht.com/ApZLAgv5Jr7m5P4WjlEdKwtEubbKL-4lUbXA7DghghMDYdJp73v4AXKiNM6dlZlkwF0=w300-rw"/ ></p>
+						<h1>OUTSIDE</h1>
+						<p class="muted">Readable Weather Information</p>
 						<hr />
-						<h2>Notepad is a simple, beautiful yet powerful notes taking app for android.</h2>
-						<p>Unlike other notes taking apps for Android, it's based on minimal design, elegant typography</p>
+						<h2>A beautiful app that displays weather information in a readable format.</h2>
+						<p>This app is based on gestures. There are no buttons, settings etc. This app was created by keeping one thing in mind, simplicity and to the point information.</p>
 						<br/>
 						<p>
-							<a href="https://play.google.com/store/apps/details?id=name.neerajkumar.mobile.android.notepad">
+							<a href="https://play.google.com/store/apps/details?id=name.neerajkumar.mobile.android.outside">
 							  <img alt="Get it on Google Play"
 								   src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 							</a>
@@ -60,12 +60,12 @@
 				<div class="row-fluid centerText">
 					<div class="span12">
 						<hr />
-						<div class="fb-like" data-href="http://lab.neerajkumar.name/notepad" data-width="450" data-layout="button_count" data-show-faces="true" data-send="false"></div>
+						<div class="fb-like" data-href="http://lab.neerajkumar.name/outside" data-width="450" data-layout="button_count" data-show-faces="true" data-send="false"></div>
 						<!-- Place this tag in your head or just before your close body tag. -->
 						<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 						<!-- Place this tag where you want the +1 button to render. -->
-						<div class="g-plusone" data-size="medium" data-href="http://lab.neerajkumar.name/notepad"></div>
+						<div class="g-plusone" data-size="medium" data-href="http://lab.neerajkumar.name/outside"></div>
 						<hr />
 					</div>
 				</div>
@@ -79,10 +79,8 @@
 				<div class="row-fluid gallery">
 					
 					<div class="span12 centerText">
-						<a data-trigger="fancybox" rel="gallery" href="https://lh5.ggpht.com/tKDBMGPT-9ORt7-1o_Cnx1fTTE4L03JwnSx4nrrmK5nBVoRPMgzajftBQgKeaRhaS78=h900-rw"><img class="img-polaroid" src="https://lh5.ggpht.com/tKDBMGPT-9ORt7-1o_Cnx1fTTE4L03JwnSx4nrrmK5nBVoRPMgzajftBQgKeaRhaS78=h310-rw" /></a>
-						<a data-trigger="fancybox" rel="gallery" href="https://lh3.ggpht.com/c5haHrXZeZAXzJrupx-XE-zTMgWEvOSN71thGWOyaZatBGvZ6dnjNrtY6wkoloOLvA=h900-rw"><img class="img-polaroid" src="https://lh3.ggpht.com/c5haHrXZeZAXzJrupx-XE-zTMgWEvOSN71thGWOyaZatBGvZ6dnjNrtY6wkoloOLvA=h310-rw" /></a>
-						<a data-trigger="fancybox" rel="gallery" href="https://lh3.ggpht.com/URD-tJYaKBs5jbZSJWbY-EZ0wCNHwZdMOIElEVrNJn6YKFRaFXzXEahklx-ic8LUzoI=h900-rw"><img class="img-polaroid" src="https://lh3.ggpht.com/URD-tJYaKBs5jbZSJWbY-EZ0wCNHwZdMOIElEVrNJn6YKFRaFXzXEahklx-ic8LUzoI=h310-rw" /></a>
-						<a data-trigger="fancybox" rel="gallery" href="https://lh5.ggpht.com/QeWrJb77N9rZdwtlzZBHzwIyX9i-rhpIO4-ebvekeR3A6uAWBYYCLEjTIt1hZcG7sQ=h900-rw"><img class="img-polaroid" src="https://lh5.ggpht.com/QeWrJb77N9rZdwtlzZBHzwIyX9i-rhpIO4-ebvekeR3A6uAWBYYCLEjTIt1hZcG7sQ=h310-rw" /></a>
+						<a data-trigger="fancybox" rel="gallery" href="https://lh4.ggpht.com/idOihbjsw8m6aUZ3kX3U6Yq5k17AsJs_s5QzACponztYu2OJaoquhhyWsIMQq8_i=h310-rw"><img class="img-polaroid" src="https://lh4.ggpht.com/idOihbjsw8m6aUZ3kX3U6Yq5k17AsJs_s5QzACponztYu2OJaoquhhyWsIMQq8_i=h900-rw" /></a>
+						<a data-trigger="fancybox" rel="gallery" href="https://lh6.ggpht.com/pqFP6IS9IwqX7vv9Y9yk-7PvzElpT7S1qEqaQNp4JCm8qg5N1C5tsF1WJL2RHTLviDv9=h310-rw"><img class="img-polaroid" src="https://lh6.ggpht.com/pqFP6IS9IwqX7vv9Y9yk-7PvzElpT7S1qEqaQNp4JCm8qg5N1C5tsF1WJL2RHTLviDv9=h900-rw" /></a>
 					</div>
 				</div>
 			</div>

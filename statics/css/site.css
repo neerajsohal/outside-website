@@ -1,0 +1,49 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 80%;
+	color: #555;
+	border-top: 5px solid #ccc;
+}
+
+.prepend-top {
+	margin-top: 1em;
+}
+h1, h2, h3, h4, h5 {
+	font-weight: 200;
+	color: #111;
+}
+.centerText {
+	text-align: center;
+}
+.hero_box {
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+.main {
+	margin-top: 200px;
+	max-width: 600px;
+	margin: 0 auto;
+}
+.gallery img {
+	width: 22%;
+	margin-right: 1%;
+	display: inline-block;
+	float: left;
+}
+/* Large desktop */
+@media (min-width: 1200px) { ... }
+ 
+/* Portrait tablet to landscape and desktop */
+@media (min-width: 768px) and (max-width: 979px) { ... }
+ 
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) { ... }
+ 
+/* Landscape phones and down */
+@media (max-width: 480px) { 
+
+	.gallery img {
+			width: 20%;
+	}
+	
+}
